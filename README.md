@@ -8,7 +8,7 @@ This project analyzes the **complete metabolome (intracellular and extracellular
 
 ## Key Results
 - Identification of top differentially expressed metabolites with p-values < 0.05 & VIP scores > 1.
-- PCA, OPLS-DA, Pathway enrichment analysis graphs etc.
+- PCA, OPLS-DA, Pathway enrichment analysis graphs, etc.
 
 ## Reference
-The full dataset and detailed analysis are presented in **Chapter 3: "Metabolites"** of my master’s thesis.
+Elaboration of the dataset and detailed analysis are presented in [**Chapter 3: "Metabolites"**](https://github.com/nandini-mukherjeez/metabolomics-project/blob/main/Analysis/NandiniMukherjee_Thesis_Final.pdf) of my master’s thesis.
