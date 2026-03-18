@@ -4,7 +4,8 @@ This project analyzes the **complete metabolome (intracellular and extracellular
 
 ## Tools Used
 - Excel (data organization and initial analysis)  
-- Python/R (for statistical analysis and visualization)  
+- Python/R (for statistical analysis and visualization)
+- Datasets generated from my wet lab work  
 
 ## Key Results
 - Identification of top differentially expressed metabolites with p-values < 0.05 & VIP scores > 1.
